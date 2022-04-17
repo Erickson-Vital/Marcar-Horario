@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://i.imgur.com/K0FGlou.png" width="250">
+    <img src="https://i.imgur.com/K0FGlou.png" width="350">
   </a>
 </p>
 ##### Aplicação em desenvolvimento com intuito em facilitar o modo de marcar horarios para as mulheres que estão começando seu Salão ou Espaço.
